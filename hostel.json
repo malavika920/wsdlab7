@@ -1,0 +1,63 @@
+[
+    {
+      "hostelId": "H1",
+      "hostelName": "Sunset Hostel",
+      "description": "A cozy hostel with beautiful sunset views, located in the heart of the city.",
+      "roomType": "Mixed Dormitory",
+      "pricePerNight": "$20",
+      "rating": "4.5",
+      "location": "New York City",
+      "imageUrl": "https://raw.githubusercontent.com/malavika920/Hostel-Management/main/img/doublebed1.jpeg"
+    },
+    {
+      "hostelId": "H2",
+      "hostelName": "Mountain Retreat",
+      "description": "A peaceful retreat in the mountains, perfect for nature lovers.",
+      "roomType": "Private Room",
+      "pricePerNight": "$40",
+      "rating": "4.8",
+      "location": "Denver, Colorado",
+      "imageUrl": "https://raw.githubusercontent.com/malavika920/Hostel-Management/main/img/doublebed2.jpeg"
+    },
+    {
+      "hostelId": "H3",
+      "hostelName": "Urban Haven",
+      "description": "Modern hostel with easy access to the city's attractions.",
+      "roomType": "Shared Dormitory",
+      "pricePerNight": "$25",
+      "rating": "4.2",
+      "location": "San Francisco, California",
+      "imageUrl": "https://raw.githubusercontent.com/malavika920/Hostel-Management/main/img/doublebed3.jpeg"
+    },
+    {
+      "hostelId": "H4",
+      "hostelName": "Beachside Hostel",
+      "description": "A vibrant hostel right on the beach, with plenty of activities and social events.",
+      "roomType": "Beachfront Suite",
+      "pricePerNight": "$50",
+      "rating": "4.7",
+      "location": "Miami, Florida",
+      "imageUrl": "https://raw.githubusercontent.com/malavika920/Hostel-Management/main/img/doublebed4.jpeg"
+    },
+    {
+      "hostelId": "H5",
+      "hostelName": "Historic Inn",
+      "description": "A charming hostel located in a historic building with unique architectural features.",
+      "roomType": "Mixed Dormitory",
+      "pricePerNight": "$30",
+      "rating": "4.6",
+      "location": "Boston, Massachusetts",
+      "imageUrl": "https://raw.githubusercontent.com/malavika920/Hostel-Management/main/img/groupbed.jpeg"
+    },
+    {
+      "hostelId": "H6",
+      "hostelName": "City Center Lodge",
+      "description": "Conveniently located in the city center, offering great access to public transportation.",
+      "roomType": "Private Room",
+      "pricePerNight": "$35",
+      "rating": "4.4",
+      "location": "Chicago, Illinois",
+      "imageUrl": "https://raw.githubusercontent.com/malavika920/Hostel-Management/main/img/groupbunkbed3.jpeg"
+    }
+  ]
+  
