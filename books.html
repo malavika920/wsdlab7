@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Display</title>
+    <link rel="stylesheet" href="books.css">
+</head>
+
+<body>
+    <nav>
+        <h1>Book Finder</h1>
+        <button><a href="hostel1.html">Hostels</a></button>
+    </nav>
+
+    <div class="controls">
+        <button id="fetchbooks">Fetch Books</button>
+        <input type="text" placeholder="Search book name" id="search">
+        <select id="sorting">
+            <option value="asc">Ascending Order </option>
+            <option value="desc">Descending Order</option>
+        </select>
+        <select id="price-filter">
+            <option value="all">All Book Complexity</option>
+            <option value="200-500">Beginner</option>
+            <option value="500-800">Medium</option>
+            <option value="over-800">Hard</option>
+        </select>
+    </div>
+
+    <div id="books-container"></div>
+
+    <div id="pagination-container"></div>
+
+    <script src="display_books.js"></script>
+</body>
+
+</html>
